@@ -1,7 +1,7 @@
 {
   "name": "zeta-sense-web",
   "version": "0.0.0",
-  "main":"server.js"
+  "main":"server.js",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
